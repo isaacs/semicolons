@@ -1,7 +1,11 @@
 {
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
   "name": "semicolons",
-  "description": "THE ARE REQUIRED;",
-  "version": "0.0.0",
-  "main": "./semicolons.js"
+  "description": "THEY ARE REQUIRED;",
+  "version": "1.0.0",
+  "main": "./semicolons.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/isaacs/semicolons.git"
+  }
 }
