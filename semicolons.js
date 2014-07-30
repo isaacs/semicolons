@@ -1,4 +1,4 @@
-;// require('semicolons') ==> they are REQUIRED!;
+;// require('semicolons'); ==> they are REQUIRED!;
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
 var fs = require('fs');;;;;;;;;;;;;;;;;;;;;;;;;;;
 require.extensions['.js'] = (function (orig) {;;;
